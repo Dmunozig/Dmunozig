@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmunozig&label=Profile%20views&color=0e75b6&style=flat" alt="dmunozig" /> </p>
 
-- 🔭 I’m currently working on [Cryptonite](https://github.com/Dmunozig/Cryptonite-app)
+- :hocho: I’m currently working on [Cryptonite](https://github.com/Dmunozig/Cryptonite-app)
 
 - 🌱 I’m currently improving **my SQL skills to crush my queries.**
 
