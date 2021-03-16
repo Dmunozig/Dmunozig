@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Diego! </h1>
-<h3 align="center">A passionate and young Data Scientist trying to break into this crazy tech world. Love it!</h3>
+<h3 align="center">An eager and young data scientist trying to break into this crazy tech world. Love it!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmunozig&label=Profile%20views&color=0e75b6&style=flat" alt="dmunozig" /> </p>
 
