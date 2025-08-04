@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmunozig&label=Profile%20views&color=0e75b6&style=flat" alt="dmunozig" /> </p>
 
-- :hocho: I’m currently working on [Cryptonite](https://github.com/Dmunozig/Cryptonite-app)
-
-- 🌱 I’m currently improving **my SQL skills to crush my queries.**
-
 - 👯 I’m looking to collaborate on **Machine Learning and Data Analysis projects within Energy/Sustainability domains (not exclusively)**
 
 - 📫 How to reach me **diego.muig@gmail.com**
