@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Diego! :collision: </h1>
-<h3 align="center">Currently busy working on Lir Labs, disrupting water quality sensing.</h3>
+<h3 align="center">Currently busy working on [Lir Labs](https://www.lirlabs.com/), disrupting water quality sensing.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmunozig&label=Profile%20views&color=0e75b6&style=flat" alt="dmunozig" /> </p>
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Analysis projects within Energy/Sustainability domains (not exclusively)**
-
-- 📫 How to reach me **diego.muig@gmail.com**
+- 📫 How to reach me **diego@lirlabs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
